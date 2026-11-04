@@ -10,6 +10,21 @@ Backend developer. Public repos here are coursework and small demos. Private rep
 
 Tiny Titans is an ecology app. The source is private, so it is not linked here.
 
+## Certificates
+
+These are the Boot.dev certificates on this account. Each image is the certificate Boot.dev issued.
+
+<p>
+  <a href="certificates/learn-oop.jpg"><img src="certificates/learn-oop.jpg" alt="Boot.dev certificate for Learn Object Oriented Programming in Python, 4 November 2026" width="420"></a>
+  <a href="certificates/learn-git.jpg"><img src="certificates/learn-git.jpg" alt="Boot.dev certificate for Learn Git, 4 November 2026" width="420"></a>
+</p>
+<p>
+  <a href="certificates/bookbot.jpg"><img src="certificates/bookbot.jpg" alt="Boot.dev certificate for Build a BookBot in Python, 10 September 2026" width="420"></a>
+  <a href="certificates/learn-python.jpg"><img src="certificates/learn-python.jpg" alt="Boot.dev certificate for Introduction to Python, 15 July 2026" width="420"></a>
+</p>
+
+Learn Linux was completed on 9 September 2026.
+
 ## This account
 
 The login is [ecomantis](https://github.com/ecomantis).
